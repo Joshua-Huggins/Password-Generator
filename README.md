@@ -1,7 +1,8 @@
 # Password-Generator
 
 This password generator has been created to give anyone that has access to sensitive data better secure it with strong passwords
-    * Passwords can be as short as 8 characters and as long as 128 characters
+    
+   * Passwords can be as short as 8 characters and as long as 128 characters
 ![Length Prompt](/assets/Length.JPG)
    
     
