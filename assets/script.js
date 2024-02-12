@@ -37,8 +37,8 @@ return(randomKey);
 }
 
 // Write password to the #password input
-function writePassword() {
-  var password = generatePassword();
+function writePassword(randomKey) {
+  var password = generatePassword(randomKey);
   var passwordText = document.querySelector("#password");
 
   
