@@ -31,7 +31,7 @@ if (promptNumbers) {multiSelect += numbers;}
 if (promptSpecialchar) {multiSelect += specialchar;}
 
 for (i= 0; i < keyLength; i++) {
-  randomKey += multiSelect[Math.floor(math.random() * multiSelect.length)]
+  randomKey += multiSelect[Math.floor(Math.random() * multiSelect.length)]
 }
 return(randomKey);
 }
