@@ -5,9 +5,10 @@ This password generator has been created to give anyone that has access to sensi
 ![Length Prompt](/assets/Length.JPG)
    
     
-    * Passwords can include numbers, special characters, and both Upper and Lower-case alphabet charcters
+   * Passwords can include numbers, special characters, and both Upper and Lower-case alphabet charcters
 ![Other Prompts](/assets/SpecialChar.JPG)
-    * Users can input which of the above can be used within the passwords
+   
+   * Users can input which of the above can be used within the passwords
 
 ## Deployment
 
