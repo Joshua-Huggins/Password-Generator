@@ -31,14 +31,14 @@ if (promptNumbers) {multiSelect += numbers;}
 if (promptSpecialchar) {multiSelect += specialchar;}
 
 for (i= 0; i < keyLength; i++) {
-  randomKey += multiSelect[Math.floor(math.random() * multiSelect.length)]
+  randomKey += multiSelect[Math.floor(Math.random() * multiSelect.length)]
 }
 return(randomKey);
 }
 
 // Write password to the #password input
-function writePassword() {
-  var password = generatePassword();
+function writePassword(randomKey) {
+  var password = generatePassword(randomKey);
   var passwordText = document.querySelector("#password");
 
   
