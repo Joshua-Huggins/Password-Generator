@@ -15,4 +15,4 @@ This password generator has been created to give anyone that has access to sensi
 
 ## Deployment
 
-Deployed website can be found here 
+Deployed website can be found here https://joshua-huggins.github.io/Password-Generator/
